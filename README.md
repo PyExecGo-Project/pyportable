@@ -1,6 +1,8 @@
-# 
+# What is this?
+This is a Powershell script PyExecGo uses to setup the Python "environment", it's used by [the builder](https://github.com/PyExecGo-Project/PyExecGo-Builder).
 
---
+### This is the readme of the orignal creator (Dreamsavior), which can be found in the [LICENSE](https://github.com/PyExecGo-Project/pyportable/blob/main/LICENSE) file.
+---
 
 # What is this?
 A powershell script to generate portable Python for windows system from a clean slate.
